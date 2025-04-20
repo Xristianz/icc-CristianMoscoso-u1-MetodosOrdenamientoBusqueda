@@ -27,7 +27,7 @@ Para ejecutar el proyecto:
 
 1. Compila el código:
     ```bash
-    javac App.java
+    controllers.java
     ```
 2. Ejecuta la aplicación:
     ```bash
